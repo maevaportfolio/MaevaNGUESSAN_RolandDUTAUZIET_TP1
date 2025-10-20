@@ -11,7 +11,7 @@ MOSEF-APPLIED-ML/
 │   └── data.csv
 │
 ├── notebook/
-│   └── Analyse_exploratoire_2_(EDA).ipynb
+│   └── EDA.ipynb
 │
 ├── src/
 │   ├── __init__.py
